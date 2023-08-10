@@ -1,0 +1,19 @@
+{
+  "name": "veiculos",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/server/server.js",
+  "scripts": {
+    "dev": "nodemon ./src/server/index"
+  },
+  "keywords": [],
+  "author": "Jose Alison",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "express": "^4.18.2"
+  }
+}
